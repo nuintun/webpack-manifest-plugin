@@ -44,6 +44,7 @@ class ManifestPlugin {
    * @private
    * @method getFileType
    * @param {string} filepath
+   * @returns {string}
    */
   getFileType(filepath) {
     filepath = filepath.replace(/\?.*/, '');
