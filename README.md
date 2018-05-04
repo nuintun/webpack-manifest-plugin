@@ -1,2 +1,7 @@
 # webpack-manifest-plugin
-webpack plugin for generating asset manifest
+
+> A webpack plugin for generating asset manifest
+
+### Thanks
+
+> [danethurber/webpack-manifest-plugin](https://github.com/danethurber/webpack-manifest-plugin)

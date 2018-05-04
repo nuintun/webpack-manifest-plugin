@@ -1,0 +1,26 @@
+{
+  "name": "@nuintun/webpack-manifest-plugin",
+  "version": "0.0.1",
+  "description": "A webpack plugin for generating asset manifest.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6.11.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuintun/webpack-manifest-plugin.git"
+  },
+  "keywords": ["webpack", "manifest"],
+  "author": {
+    "name": "nuintun",
+    "email": "nuintun@163.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuintun/webpack-manifest-plugin/issues"
+  },
+  "dependencies": {
+    "fs-extra": "^6.0.0"
+  },
+  "homepage": "https://github.com/nuintun/webpack-manifest-plugin#readme"
+}
