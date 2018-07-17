@@ -9,7 +9,7 @@
 'use strict';
 
 const path = require('path');
-const fse = require('fs-extra');
+const fs = require('fs-extra');
 
 const emitCountMap = new Map();
 
@@ -217,7 +217,7 @@ class ManifestPlugin {
         };
 
         if (options.writeToFileEmit) {
-          fse.outputFileSync(outputFile, output);
+          fs.outputFileSync(outputFile, output);
         }
       }
 
