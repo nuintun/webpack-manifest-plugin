@@ -23,7 +23,7 @@
     "url": "https://github.com/nuintun/webpack-manifest-plugin/issues"
   },
   "dependencies": {
-    "fs-extra": "^7.0.0"
+    "fs-extra": "^9.0.1"
   },
   "homepage": "https://github.com/nuintun/webpack-manifest-plugin#readme"
 }
